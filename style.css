@@ -1,0 +1,52 @@
+@font-face {
+	font-family: lolkek;
+	src: url(fortnitebattlefest.ttf);
+}
+.box {
+	background:   
+	height: 300px;
+}
+.text {
+	font-family: lolkek;
+}
+.box2 {
+	background:  
+	height: 400px;
+	padding-top: 10px;
+	display: flex;
+}
+.box3 {
+	background:  
+	height: 350px;
+	width: 1600px;
+	margin-left: 120px;
+	display: flex;
+}
+.blok1 {
+	background:     
+	height: 350px;
+	width: 210px;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+@font-face {
+	font-family: lolkek;
+	src: url(death-note-font-cdnfonts.zip);
+}
+.bloks {
+	background:   
+	height: 350px;
+	width: 210px;
+	margin-left: 150px;
+	margin-top: 10px
+}
+
+.img {
+    height: 210px; 
+    width: 210px;
+}
+.box4{
+	height: 400px;
+	width: 2000px;
+	background: blue;
+}
